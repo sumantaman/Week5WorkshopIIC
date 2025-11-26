@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|c:\\users\\acer\\desktop\\week 5\\week 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|c:\\users\\acer\\desktop\\week 5\\week 5\\bikeabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|solutionrelative:bikeabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|c:\\users\\acer\\desktop\\week 5\\week 5\\carabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|solutionrelative:carabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|c:\\users\\acer\\desktop\\week 5\\week 5\\vehicleabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|solutionrelative:vehicleabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|c:\\users\\acer\\desktop\\week 5\\week 5\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|c:\\users\\acer\\desktop\\week 5\\week 5\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|solutionrelative:printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|c:\\users\\acer\\desktop\\week 5\\week 5\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|solutionrelative:motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|c:\\users\\acer\\desktop\\week 5\\week 5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|c:\\users\\acer\\desktop\\week 5\\week 5\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44F7FC5-4995-4896-8945-1697906FBA9A}|Week 5.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BikeAbs.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\BikeAbs.cs",
+              "RelativeDocumentMoniker": "BikeAbs.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\BikeAbs.cs",
+              "RelativeToolTip": "BikeAbs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:06:51.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarAbs.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\CarAbs.cs",
+              "RelativeDocumentMoniker": "CarAbs.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\CarAbs.cs",
+              "RelativeToolTip": "CarAbs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:04:58.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleAbs.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\VehicleAbs.cs",
+              "RelativeDocumentMoniker": "VehicleAbs.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\VehicleAbs.cs",
+              "RelativeToolTip": "VehicleAbs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:01:34.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\Printer.cs",
+              "RelativeDocumentMoniker": "Printer.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\Printer.cs",
+              "RelativeToolTip": "Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:59:20.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Motorcycle.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\Motorcycle.cs",
+              "RelativeToolTip": "Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:57:35.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:56:14.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:54:41.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:51:50.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Week 5\\Week 5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:50:52.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
